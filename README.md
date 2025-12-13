@@ -6,17 +6,22 @@ Si vous n'utilisez aucune fonctionnalité qui donne de l'argent ou qui modifie v
 A noter qu'il ne permettra que de jouer avec des joueurs Yim et donc vous ne pouvez pas aller en session sur invitation ou rejoindre vos amis
 
 ## Installation
-- Télécharger YimMenuV2.dll
-- Télécharger Xenos pour injecter le dll : https://github.com/DarthTon/Xenos/releases/tag/2.3.2
+- Télécharger YimMenuV2.dll en cliquant sur le fichier plus haut puis en cliquant sur Télécharger à droite
+- Télécharger l'archive Xenos_2.3.2.7z pour injecter le dll : https://github.com/DarthTon/Xenos/releases/tag/2.3.2
 **A NOTER** Xenos sera détecté comme logiciel potentiellement malveillant par les antivirus, logique c'est un logiciel qui permet d'injecter des dll. Le projet est open-source et le plus utilisé donc 100% safe. Au pire utilisez un autre injecteur ça fera la même chose.
 
-## Utilisation
+## Injection
 - Désactiver Battle-Eye dans le launcher Rockstar
 - Lancer GTA V Enhanced et attendre dans le menu de choix entre "En Ligne / GTA+ / Histoire"
-- Lancer Xenos, dans Process sélectionnez GTA Enhanced
+- Extraire Xenos de l'archive (Veillez à bien désactiver l'antivirus ou créer une exclusion) Lancer Xenos, dans Process sélectionner GTA_Enhanced.exe
 - Cliquez sur Add et sélectionnez YimMenuV2.dll
-- Cliquez sur Inject et attendez que le menu apparaisse dans le jeu
-- Lancez depuis le Menu > Network un session publique
+- Cliquer sur Inject et attendre que le menu apparaisse dans le jeu
+- Fermer le message d'information en appuyant sur Close
+- Aller en mode histoire et attendre d'apparaître
+- Aller en ligne depuis le Network > Session Type > Join un session publique
+
+## Utilisation
+Pour ouvrir le menu le raccourci est "Ctrl + /" ou "INSER"
 
 ## Braquages Modder
 Vous pouvez facilement modifier l'objectif des braquages, cette fonctionnalité n'est pas dangereuse
