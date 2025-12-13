@@ -18,7 +18,7 @@ A noter qu'il ne permettra que de jouer avec des joueurs Yim et donc vous ne pou
 - Cliquer sur Inject et attendre que le menu apparaisse dans le jeu
 - Fermer le message d'information en appuyant sur Close
 - Aller en mode histoire et attendre d'apparaître
-- Aller en ligne depuis le Network > Session Type > Join un session publique
+- Aller en session sur invitation depuis le menu GTA **(n'utilisez pas les lancements de session depuis le mod menu car ça vous ammènera toujours en session publique)**
 
 ## Utilisation
 Pour ouvrir le menu le raccourci est "Ctrl + /" ou "INSER"
