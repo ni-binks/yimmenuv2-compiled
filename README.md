@@ -5,6 +5,7 @@ Si vous n'utilisez aucune fonctionnalité qui donne de l'argent ou qui modifie v
 - A noter que comme les autres menus qui n'ont pas de BattlEye Bypass, il est impossible de jouer en partie publique. Vous serez exclu au bout de quelques minutes si vous n'êtes pas l'hôte  
 Il est déconseillé de le faire car vous pouvez vous faire shadow ban et n'attérir ensuite que dans des sessions avec très peu de joueurs pendant quelques jours  
 Je conseil d'aller en session sur invitation et non pas en session publique YimUser-Only parce que les autres utilisateurs pourraient vous faire crash
+- Les tous les fichiers de YimMenuV2 sont stockés dans "%AppData%\YimMenuV2"
 
 ## Installation
 - Télécharger [YimMenuV2.dll](https://github.com/ni-binks/yimmenuv2-compiled/raw/refs/heads/main/YimMenuV2.dll) dans ce repo
