@@ -8,7 +8,7 @@ Je conseil d'aller en session sur invitation et non pas en session publique YimU
 - Tous les les fichiers de YimMenuV2 sont stockés dans "%AppData%\YimMenuV2"
 
 ## Installation
-- Télécharger [YimMenuV2.dll](https://github.com/ni-binks/yimmenuv2-compiled/raw/refs/heads/main/YimMenuV2.dll) dans ce repo
+- Télécharger [YimMenuV2.dll](https://github.com/YimMenu/YimMenuV2/releases/download/nightly/YimMenuV2.dll)
 - Télécharger [Xenos_2.3.2.7z](https://github.com/DarthTon/Xenos/releases/download/2.3.2/Xenos_2.3.2.7z) pour injecter le dll
 **A NOTER** Xenos sera détecté comme logiciel potentiellement malveillant par les antivirus, logique c'est un logiciel qui permet d'injecter des dll.  
 Le projet est open-source et le plus utilisé donc 100% safe. Au pire utilisez un autre injecteur ça fera la même chose.
