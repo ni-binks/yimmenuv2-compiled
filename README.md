@@ -1,4 +1,7 @@
 # Compatible avec le patch 1.72
+
+Vous pouvez suivre mon tutoriel sur Youtube : https://youtu.be/aF1fIeCxpA0
+
 ## Important
 - Le menu est considéré comme safe car il n'est pas détecté lorsqu'il est injecté dans le jeu **CEPENDANT ça ne veut pas dire que vous ne pouvez pas vous faire ban !**  
 Si vous n'utilisez aucune fonctionnalité qui donne de l'argent ou qui modifie vos stats du compte (notamment le Unlock All) cela devrait être ok  
